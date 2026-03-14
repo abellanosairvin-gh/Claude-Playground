@@ -1,2 +1,2 @@
 # Learning-Playground
-A repository for all types of learning, practice, and playground
+A repository for all types of Claude learning, practice, and playground
